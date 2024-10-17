@@ -6,7 +6,4 @@ Welcome to the Digital Library! This project is a web application designed to he
 Backend: Node.js, Express.js, MongoDB ,Postman
 Authentication: JWT (JSON Web Tokens)
 )
-- [Contributing](#contributing)
-- [License](#This project is licensed under the MIT License. See the LICENSE file for details.)
-
 
